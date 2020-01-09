@@ -43,7 +43,7 @@
 - [web source](https://coding.imooc.com/class/169.html)
 
 
-# **2. Cover**
+# **2. About Sth.**
 - 关于数据
   - 著名的鸢尾花
     - 数据整体是数据集（data set）
