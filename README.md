@@ -4,4 +4,4 @@
 
 [learn online](https://coding.imooc.com/class/169.html)
 
-[Source repositories](https://github.com/liuyubobobo/Play-with-Machine-Learning-Algorithms)
+[Source repository](https://github.com/liuyubobobo/Play-with-Machine-Learning-Algorithms)
